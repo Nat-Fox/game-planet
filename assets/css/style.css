@@ -1,5 +1,28 @@
 
+*{
+	margin:  0px;
+	padding: 0px;
+}
+
+
+
+
+/*------------ SECTION ESTRENOS ----------*/
+
+.img-estrenos{
+	padding: 5px;
+	background-color: #BFBFBF;
+}
+
+.img-responsive-estreno{
+	width: 100%;
+}
+
+
+
+
 
 #populares{
     padding: 80px;
 }
+
