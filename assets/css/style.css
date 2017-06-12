@@ -1,0 +1,50 @@
+
+*{
+	margin:  0px;
+	padding: 0px;
+}
+
+/*------------ SECTION NAVEGADOR ----------*/
+#enlaces-nav li a{
+	text-decoration: none;
+	/*float: right;*/
+
+	font-size: 25px;
+	color:#EE16D4;
+	font-weight: 20px;
+	
+}
+
+#navegador{
+	background-color: #7E608D;
+	position: fixed;
+	height: 15%;
+}
+
+#img-nav img{
+width: 40%;
+margin-top:20px;
+
+}
+
+/*------------ SECTION ESTRENOS ----------*/
+
+.img-estrenos{
+	padding: 5px;
+	background-color: #BFBFBF;
+}
+
+.img-responsive-estreno{
+	width: 100%;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
+#populares{
+    padding: 80px;
+}
+
