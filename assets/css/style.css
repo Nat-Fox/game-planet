@@ -101,3 +101,45 @@ textarea {
 .subir {
     margin-top: -22px;
 }
+
+
+/*-------FOOTER--------*/
+
+footer {
+    width: 100% padding-top: 20px;
+}
+
+.pre-footer {
+    background-color: #3F3F3F;
+    color: white;
+    padding: 30px 0;
+}
+
+.text-center li {
+    list-style: none;
+    text-align: left;
+}
+
+.text-center li a {
+    color: #BFBFBF;
+}
+
+.text-center li a:hover {
+    color: #21A1EA;
+    text-decoration: none;
+}
+
+.text-center a {
+    color: #BFBFBF;
+}
+
+.text-center a:hover {
+    color: #21A1EA;
+}
+
+.el-footer-final {
+    background-color: #222222;
+    text-align: center;
+    color: #BFBFBF;
+    padding: 5px 0;
+}
