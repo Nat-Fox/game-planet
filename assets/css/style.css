@@ -87,6 +87,21 @@ textarea {
     resize: none;
 }
 
+.contact-content {
+    background-color: #BFBFBF;
+}
+
+.container-contact {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.btn-enviar {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
 
 /* Fin estilos nat */
 
@@ -142,4 +157,9 @@ footer {
     text-align: center;
     color: #BFBFBF;
     padding: 5px 0;
+}
+
+.slider-content {
+    margin-top: -20px;
+    background-color: #222222;
 }
