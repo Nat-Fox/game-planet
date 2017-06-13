@@ -1,28 +1,91 @@
+/* Estilos generales*/
 
-*{
-	margin:  0px;
-	padding: 0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-
-
-
+/* Estilos Amala */
 /*------------ SECTION ESTRENOS ----------*/
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
 
-.img-estrenos{
-	padding: 5px;
-	background-color: #BFBFBF;
+.los-estrenos{
+	position: relative;
 }
 
 .img-responsive-estreno{
 	width: 100%;
 }
 
-
-
-
-
-#populares{
-    padding: 80px;
+.titulo-los-estrenos{
+	padding: 20px 0;
 }
 
+.text-los-estrenos{
+	height: 170px;
+	margin: 10px 0;
+}
+
+.text-los-estrenos p{
+	font-size: 0.9em;
+}
+
+.img-estrenos{
+	padding: 5px;
+	background-color: #BFBFBF;
+}
+
+.img-consola{
+	width: 30px;
+}
+
+.estreno-caja{
+	padding-bottom: 5%;
+}
+
+.logo-consola{
+	padding: 10px 20px;
+}
+
+.titulo-juego{
+	padding-top: 15px;	
+	text-transform: uppercase;
+	color: #7F7F7F;
+}
+
+.btn-default{
+	margin-bottom: 5px;
+}
+
+.well{
+	text-align: center;
+	padding: 3px;
+}
+
+/* Fin estilos Amala */
+
+
+/* Inicio estilos nat */
+
+#contact {
+    margin-top: 50px;
+}
+
+.map-contact {
+    margin-top: 20px;
+    text-align: right;
+    border: 1px solid black;
+}
+
+.title-contact {
+    margin-top: 30px;
+}
+
+textarea {
+    resize: none;
+}
+
+
+/* Fin estilos nat */
