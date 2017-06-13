@@ -7,7 +7,7 @@
 
 
 
-/*------------ SECTION ESTRENOS ----------*/
+/*------------ SECTION ESTRENOS junto con populares ----------*/
 
 .img-estrenos{
 	padding: 5px;
@@ -17,8 +17,23 @@
 .img-responsive-estreno{
 	width: 100%;
 }
+.text-los-populares{
+    height: 170px;
+    margin: 10px 0;
+}
 
 
+
+/*cssss*/
+
+.img-consola{
+    width: 30px;
+}
+
+.logo-consola{
+	padding: 10px 20px;
+
+}
 
 
 
