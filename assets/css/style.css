@@ -4,7 +4,7 @@
 }
 
 
-/*------------ SECTION ESTRENOS (amala) ----------*/
+/*------------ SECTION ESTRENOS (amala - coni) ----------*/
 
 .los-estrenos {
     position: relative;
@@ -22,11 +22,9 @@
     height: 170px;
     margin: 10px 0;
 }
-
 .text-los-estrenos p {
     font-size: 0.9em;
 }
-
 .img-estrenos {
     padding: 5px;
     background-color: #BFBFBF;
@@ -35,14 +33,22 @@
 .img-consola {
     width: 30px;
 }
+.text-los-populares{
+    height: 170px;
+    margin: 10px 0;
+}
+
 
 .estreno-caja {
     padding-bottom: 5%;
 }
 
-.logo-consola {
-    padding: 10px 20px;
+.img-consola{
+    width: 30px;
 }
+
+.logo-consola{
+	padding: 10px 20px;
 
 .titulo-juego {
     padding-top: 15px;
@@ -59,8 +65,7 @@
     padding: 3px;
 }
 
-
-/* Fin estilos Amala */
+/* Fin estilos Amala Y Coni */
 
 #populares {
     padding: 80px;
