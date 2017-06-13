@@ -1,28 +1,44 @@
-
-*{
-	margin:  0px;
-	padding: 0px;
+* {
+    margin: 0px;
+    padding: 0px;
 }
-
-
 
 
 /*------------ SECTION ESTRENOS ----------*/
 
-.img-estrenos{
-	padding: 5px;
-	background-color: #BFBFBF;
+.img-estrenos {
+    padding: 5px;
+    background-color: #BFBFBF;
 }
 
-.img-responsive-estreno{
-	width: 100%;
+.img-responsive-estreno {
+    width: 100%;
 }
 
-
-
-
-
-#populares{
+#populares {
     padding: 80px;
 }
 
+
+/* Inicio estilos nat */
+
+#contact {
+    margin-top: 50px;
+}
+
+.map-contact {
+    margin-top: 20px;
+    text-align: right;
+    border: 1px solid black;
+}
+
+.title-contact {
+    margin-top: 30px;
+}
+
+textarea {
+    resize: none;
+}
+
+
+/* Fin estilos nat */
